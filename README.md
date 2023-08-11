@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hello! My name is Leticia Hofman
+## Systems Development Student!
 
-<!--
-**lehhofman/lehhofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I,m 18 years old and studying at SENAI
 
-Here are some ideas to get you started:
+Known Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="Leh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leh-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leh-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+##
+
+<div>
+<a href="https://github.com/lehhofman">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehhofman-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lehhofman-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  
+</div>
+  
