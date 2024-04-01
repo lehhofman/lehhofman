@@ -1,7 +1,7 @@
 
 # Leticia Hofman - Software Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=09ed19&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Leticia+Hofman;I'm+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=read&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Leticia+Hofman;I'm+a+Software+Developer)](https://git.io/typing-svg)
 
 ## About Me
 
