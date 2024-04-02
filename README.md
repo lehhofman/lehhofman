@@ -1,25 +1,35 @@
+# <div align="center">Leticia Hofman - Software Developer</div>
 
-# Leticia Hofman - Software Developer
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=read&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Leticia+Hofman;I'm+a+Software+Developer" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=read&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Leticia+Hofman;I'm+a+Software+Developer)](https://git.io/typing-svg)
+## <div align="center">About Me</div>
 
-## About Me
+<div align="center">
+  <p>I am a passionate and dedicated software developer with a strong foundation in systems development. I enjoy tackling challenging problems and creating efficient solutions using cutting-edge technologies.</p>
+</div>
 
-I am a passionate and dedicated software developer with a strong foundation in systems development. I enjoy tackling challenging problems and creating efficient solutions using cutting-edge technologies.
+## <div align="center">Skills</div>
 
-## Skills
+<div align="center">
+  <ul>
+    <li><strong>Languages:</strong> HTML, CSS, JavaScript, C, SQL</li>
+    <li><strong>Frameworks/Libraries:</strong> React, Node.js</li>
+    <li><strong>Tools:</strong> Git, Yarn</li>
+  </ul>
+</div>
 
-- **Languages:** HTML, CSS, JavaScript, C, SQL
-- **Frameworks/Libraries:** React, Node.js
-- **Tools:** Git, Yarn
+## <div align="center">GitHub Stats</div>
 
-## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lehhofman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehhofman&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lehhofman&show_icons=true&theme=radical)
+## <div align="center">Get in Touch</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lehhofman&layout=compact&theme=radical)
-
-## Get in Touch
-
-- LinkedIn: [Leticia Hofman](https://www.linkedin.com/in/leticiahofman/)
-- Email: desenvolvimentoleticia43@gmail.com
+<div align="center">
+  <p>- LinkedIn: <a href="https://www.linkedin.com/in/leticiahofman/" style="color: #6e5494;">Leticia Hofman</a></p>
+  <p>- Email: <a href="mailto:desenvolvimentoleticia43@gmail.com" style="color: #6e5494;">desenvolvimentoleticia43@gmail.com</a></p>
+</div>
