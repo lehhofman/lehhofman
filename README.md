@@ -6,13 +6,13 @@
 
 ## <div align="center">About Me</div>
 
-<div align="center">
+<div>
   <p>I am a passionate and dedicated software developer with a strong foundation in systems development. I enjoy tackling challenging problems and creating efficient solutions using cutting-edge technologies.</p>
 </div>
 
 ## <div align="center">Skills</div>
 
-<div align="center">
+<div>
   <ul>
     <li><strong>Languages:</strong> HTML, CSS, JavaScript, C, SQL</li>
     <li><strong>Frameworks/Libraries:</strong> React, Node.js</li>
@@ -22,7 +22,7 @@
 
 ## <div align="center">GitHub Stats</div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=lehhofman&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehhofman&layout=compact&theme=radical" alt="Top Languages" />
 </div>
