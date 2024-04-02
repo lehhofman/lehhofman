@@ -22,8 +22,7 @@
 
 ## <div align="center">GitHub Stats</div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lehhofman&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehhofman&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
