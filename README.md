@@ -6,7 +6,7 @@
 
 ## <div align="center">About Me</div>
 
-<div margin-left="10px">
+<div left=10>
   <p>I am a passionate and dedicated software developer with a strong foundation in systems development. I enjoy tackling challenging problems and creating efficient solutions using cutting-edge technologies.</p>
 </div>
 
