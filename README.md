@@ -38,6 +38,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lehhofman/lehhofman/output/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
 
 ###
