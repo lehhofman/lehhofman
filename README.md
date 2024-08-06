@@ -1,30 +1,43 @@
-# <p align="center">Leticia Hofman - Software Developer! 💻</p>
+<div align="right">
+  <img src="https://profile-counter.glitch.me/lehhofman/count.svg?"  />
+</div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=read&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Leticia+Hofman;I'm+a+Software+Developer" /></a>
-</p>
+###
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img align="center" height="220em" width="830em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehhofman&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<div align="center"> 
-    <h2>🚀 Skills </h2>
-    <img align="center" height="40" width="80" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="40" width="80" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="80" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="80" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="40" width="80" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="40" width="80" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="40" width="80" alt="git-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img align="center" height="40" width="80" alt="yarn-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+###
+
+<h2 align="center">Hi 👋! My name is Leh Hofman and I'm programadora Full Stack</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lehhofman&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=%C2%B4%C2%B4" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lehhofman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="151" alt="languages graph"  />
 </div>
-    
-<h2 align="center"> 📫Get in Touch</h2>
-<div align="center" style="margin-top: 20px;">
-    <a href = "mailto:work.leticia.desenvolvimentoleticia43@gmail.com" style="margin-right: 20px;">
-      <img width="40" src="gmail.svg">
-       Desenvolvimentoleticia43@gmail.com
-    </a>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/lehhofman/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="desenvolvimentoleticia43@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/leticia-hofman-202955299" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lehhofman/lehhofman/output/snake.svg" alt="Snake animation" />
+
+###
